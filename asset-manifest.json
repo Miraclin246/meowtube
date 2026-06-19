@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meowtube/static/css/main.b86fbb00.css",
+    "main.js": "/meowtube/static/js/main.65d5c209.js",
+    "index.html": "/meowtube/index.html",
+    "main.b86fbb00.css.map": "/meowtube/static/css/main.b86fbb00.css.map",
+    "main.65d5c209.js.map": "/meowtube/static/js/main.65d5c209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b86fbb00.css",
+    "static/js/main.65d5c209.js"
+  ]
+}
